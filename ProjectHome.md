@@ -1,0 +1,1 @@
+This project intends to detect group activity mainly using Bluetooth
